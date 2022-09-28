@@ -6,15 +6,14 @@
 [![Tests][badge-tests]][tests]
 [![Total Downloads][badge-downloads]][downloads]
 
-<!--[badge-tests]: https://github.com/juststeveking/laravel-data-object-tools/actions/workflows/test.yml/badge.svg -->
 [badge-release]: https://img.shields.io/packagist/v/dende011/laravel-entity-generator.svg?style=flat-square&label=release
-[badge-php]: https://img.shields.io/packagist/php-v/juststeveking/laravel-data-object-tools.svg?style=flat-square
-[badge-downloads]: https://img.shields.io/packagist/dt/juststeveking/laravel-data-object-tools.svg?style=flat-square&colorB=mediumvioletred
+[badge-php]: https://img.shields.io/packagist/php-v/dende011/laravel-entity-generator.svg?style=flat-square
+[badge-downloads]: https://img.shields.io/packagist/dt/dende011/laravel-entity-generator.svg?style=flat-square&colorB=mediumvioletred
 
-[packagist]: https://packagist.org/packages/juststeveking/laravel-data-object-tools
+[packagist]: https://packagist.org/packages/dende011/laravel-entity-generator
 [php]: https://php.net
-[downloads]: https://packagist.org/packages/juststeveking/laravel-data-object-tools
-[tests]: https://github.com/juststeveking/laravel-data-object-tools/actions/workflows/test.yml
+[downloads]: https://packagist.org/packages/dende011/laravel-entity-generator
+[tests]: https://github.com/dende011/laravel-entity-generator/actions/workflows/test.yml
 <!-- BADGES_END -->
 
 
