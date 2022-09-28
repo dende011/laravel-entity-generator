@@ -1,0 +1,15 @@
+<?php
+
+namespace {{ namespace }};
+
+/**
+ * Class DummyClass.
+ */
+class DummyClass
+{
+
+public function toArray(){}
+
+public function tostdClass(){}
+
+}

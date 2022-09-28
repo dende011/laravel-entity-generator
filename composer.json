@@ -1,0 +1,28 @@
+{
+    "name": "lmorales/laravel-entity-generator",
+    "description": "Creacion de entidades",
+    "type": "library",
+    "require": {
+        "php": "7.*"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Lmorales\\LaravelEntityGenerator\\EntityGeneratorServiceProvider"
+            ]
+        }
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lmorales\\LaravelEntityGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonardo Morales",
+            "email": "leodavid300@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
