@@ -9,7 +9,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Dende011\\LaravelEntityGenerator\\EntityGeneratorServiceProvider"
+                "Dende011\\EntityGeneratorServiceProvider"
             ]
         }
     },
