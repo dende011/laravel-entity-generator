@@ -24,7 +24,7 @@ composer require dende011/laravel-entity-generator
 
 ## Usage
 
-php artisan make:entity
+php artisan make:entity nameEntity
 
 
 ## Credits
