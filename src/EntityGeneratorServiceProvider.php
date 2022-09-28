@@ -1,6 +1,6 @@
 <?php
 
-namespace Lmorales\LaravelEntityGenerator;
+namespace Dende011\LaravelEntityGenerator;
 
 use Illuminate\Support\ServiceProvider;
 use Lmorales\LaravelEntityGenerator\Console\Commands\MakeEntity;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Lmorales\LaravelEntityGenerator\Console\Commands;
+namespace Dende011\LaravelEntityGenerator\Console\Commands;
 
 use Illuminate\Console\GeneratorCommand;
 use Symfony\Component\Console\Input\InputArgument;
