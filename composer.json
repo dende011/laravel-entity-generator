@@ -16,7 +16,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Lmorales\\LaravelEntityGenerator\\": "src/"
+            "Dende011\\LaravelEntityGenerator\\": "src/"
         }
     },
     "authors": [
