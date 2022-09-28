@@ -3,7 +3,6 @@
 <!-- BADGES_START -->
 [![Latest Version][badge-release]][packagist]
 [![PHP Version][badge-php]][php]
-[![Tests][badge-tests]][tests]
 [![Total Downloads][badge-downloads]][downloads]
 
 [badge-release]: https://img.shields.io/packagist/v/dende011/laravel-entity-generator.svg?style=flat-square&label=release
