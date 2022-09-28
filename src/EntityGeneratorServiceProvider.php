@@ -3,7 +3,7 @@
 namespace Dende011\LaravelEntityGenerator;
 
 use Illuminate\Support\ServiceProvider;
-use Lmorales\LaravelEntityGenerator\Console\Commands\MakeEntity;
+use Dende011\LaravelEntityGenerator\Console\Commands\MakeEntity;
 
 class EntityGeneratorServiceProvider extends ServiceProvider
 {
