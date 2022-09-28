@@ -1,14 +1,15 @@
 {
-    "name": "lmorales/laravel-entity-generator",
+    "name": "dende011/laravel-entity-generator",
     "description": "Creacion de entidades",
     "type": "library",
     "require": {
-        "php": "7.*"
+        "php": "7.*",
+        "illuminate/support": "8.*"
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Lmorales\\LaravelEntityGenerator\\EntityGeneratorServiceProvider"
+                "Dende011\\LaravelEntityGenerator\\EntityGeneratorServiceProvider"
             ]
         }
     },
@@ -24,5 +25,6 @@
             "email": "leodavid300@hotmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
